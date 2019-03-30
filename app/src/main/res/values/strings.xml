@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home Door Security</string>
+    <string name="phone_number">8446645065</string>
+    <string name="door_ring_msg">There is someone at the door please open the link</string>
+    <string name="web_rtc_server_URL">http://192.168.0.102:3000</string>
+    <string name="msg_usb_attached">USB Attached</string>
+    <string name="msg_usb_detached">USB Detached</string>
+    <string name="browser_package_name">org.mozilla.firefox_beta</string>
+</resources>
